@@ -35,7 +35,7 @@ function lipiarCaja() {
 function generadorNumeroSecreto(){
     let numeroGenerado = Math.floor(Math.random()*numeroMaximo)+1;
     // si ya se sortiaron todos los numeros.
-    if  (listaNumerosSorteados.length = numeroMaximo){
+    if  (listaNumerosSorteados.length == numeroMaximo){
         asignarTextoElemento('p','Ya se sortiaron todos los cambios posibles.');
     }else{
         // si numero gnerado esta en la lista 
