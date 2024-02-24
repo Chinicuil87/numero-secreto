@@ -8,3 +8,5 @@ Juego que consiste en adivinar el numero que la maquina escogio.
 
 * Este juego fue creado como parte del programa de Alura Latam
   
+### Lengiajes.
+| JavaScripts | CSS | HTML |
