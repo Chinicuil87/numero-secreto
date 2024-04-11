@@ -1,8 +1,9 @@
 # Numero secreto. 
+|HTML||CSS||JavaScript|
 
 Curso tomado en Alura Latam.
 
-Juego que consiste en adivinar el numero que la maquina escogio.
+Juego que consiste en adivinar el numero secreto.
 
 1.  Escoge un rango de nuemro recuerda que entre mayor sea mas dificil sera. 
 
